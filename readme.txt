@@ -1,0 +1,1 @@
+Small chat application between clients in the command line
